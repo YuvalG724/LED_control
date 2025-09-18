@@ -4,7 +4,7 @@
 
 const char *ssid = "your_SSID";
 const char *password = "your_PASSWORD";
-const char *serverURL = "http://<your_ip_address>/led_status";
+const char *serverURL = "http://<your_ip_address>/led";
 
 #define LED_PIN 2
 
