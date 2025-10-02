@@ -4,22 +4,7 @@
 This project demonstrates remote control of LEDs using IoT concepts, fully simulated on Wokwi. Users can turn LEDs ON/OFF in real-time through a web interface or code simulation.
 
 
-## Tech arsenal
-```mermaid
-graph TD;
-A["Signed with Quantum"] --> B["App development"]
-A --> C["AI/ML Engineering"]
-A --> D["Quantum Encryption"]
 
-B --> B1["React Native(Expo)"]
-B --> B2["FastAPI Backend"]
-
-C --> C1["Vision-Language Model"]
-C --> C2["BLIP"]
-
-D --> D1["liboqs-python"]
-D --> D2["Open Quantum Safe (OQS)"]
-```
 ## Getting Started
 1. Fork this repository.
 2. Clone your fork using git clone https://github.com/your-username/LED_control.git
