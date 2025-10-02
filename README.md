@@ -7,18 +7,18 @@ This project demonstrates remote control of LEDs using IoT concepts, fully simul
 ## Tech arsenal
 ```mermaid
 graph TD;
-A[Signed with Quantum] --> B[App development]
-A --> C[AI/ML Engineering]
-A --> D[Quantum Encryption]
+A["Signed with Quantum"] --> B["App development"]
+A --> C["AI/ML Engineering"]
+A --> D["Quantum Encryption"]
 
-B --> B1[React Native(Expo)]
-B --> B2[FastAPI Backend]
+B --> B1["React Native(Expo)"]
+B --> B2["FastAPI Backend"]
 
-C --> C1[Vision-Language Model]
-C --> C2[BLIP]
+C --> C1["Vision-Language Model"]
+C --> C2["BLIP"]
 
-D --> D1[liboqs-python]
-D --> D2[Open Quantum Safe (OQS)]
+D --> D1["liboqs-python"]
+D --> D2["Open Quantum Safe (OQS)"]
 ```
 ## Getting Started
 1. Fork this repository.
